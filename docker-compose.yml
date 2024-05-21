@@ -1,0 +1,6 @@
+version: '3'
+services:
+  web:
+    image: arun_capstone/dev:latest
+    ports:
+      - "80:80"
